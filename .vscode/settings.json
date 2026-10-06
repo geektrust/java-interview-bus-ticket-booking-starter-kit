@@ -1,0 +1,13 @@
+{
+  "scm.compactFolders": false,
+  "explorer.compactFolders": false,
+  "notebook.compactView": false,
+  "workbench.startupEditor": "none",
+  "chat.commandCenter.enabled": false,
+  "workbench.layoutControl.enabled": false,
+  "workbench.navigationControl.enabled": false,
+  "security.workspace.trust.enabled": false,
+  "files.autoSave": "afterDelay",
+  "extensions.ignoreRecommendations": true,
+  "workbench.iconTheme": "vs-seti"
+}
